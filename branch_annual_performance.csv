@@ -1,0 +1,121 @@
+branch_id,branch_name,city,tier,region,avg_teller_utilisation,avg_cost_per_transaction,avg_cash_idle_ratio,avg_rm_activity_rate,total_deposits_lakh,total_fee_income_lakh,total_products_sold,zero_crm_months,avg_downtime_hours,has_atm,benchmark_teller_utilisation,benchmark_cost_per_transaction,benchmark_cash_idle_ratio,benchmark_rm_activity_rate,flag_teller,flag_cost,flag_cash,flag_rm,underperformance_score,performance
+BR0001,Mumbai Main Branch,Mumbai,Metro,West,0.232,135.832,0.364,0.203,60004.7,554.3,1415,0,2.483,True,0.219,136.04,0.368,0.223,0,0,0,1,1,Healthy
+BR0002,Delhi North Branch,Delhi,Metro,North,0.228,132.637,0.335,0.203,62266.1,541.05,1351,1,3.458,True,0.219,136.04,0.368,0.223,0,0,0,1,1,Healthy
+BR0003,Bengaluru South Branch,Bengaluru,Metro,South,0.221,136.073,0.41,0.218,61227.9,492.07,1967,1,2.775,True,0.219,136.04,0.368,0.223,0,1,1,1,3,Immediate Action
+BR0004,Hyderabad East Branch,Hyderabad,Metro,South,0.228,135.901,0.427,0.231,59101.8,560.54,1655,0,2.042,True,0.219,136.04,0.368,0.223,0,0,1,0,1,Healthy
+BR0005,Chennai West Branch,Chennai,Metro,South,0.218,138.391,0.402,0.178,64470.2,499.55,1488,0,3.75,True,0.219,136.04,0.368,0.223,1,1,1,1,4,Immediate Action
+BR0006,Kolkata Central Branch,Kolkata,Metro,East,0.221,139.537,0.304,0.237,58800.7,541.62,1531,0,1.417,True,0.219,136.04,0.368,0.223,0,1,0,0,1,Healthy
+BR0007,Mumbai Main Branch,Mumbai,Metro,West,0.215,143.282,0.366,0.188,59908.0,534.18,1370,2,4.025,True,0.219,136.04,0.368,0.223,1,1,0,1,3,Immediate Action
+BR0008,Delhi North Branch,Delhi,Metro,North,0.225,138.297,0.379,0.199,61209.9,575.79,1395,1,4.6,True,0.219,136.04,0.368,0.223,0,1,1,1,3,Immediate Action
+BR0009,Bengaluru South Branch,Bengaluru,Metro,South,0.212,144.522,0.359,0.18,60189.6,527.64,1463,1,3.742,True,0.219,136.04,0.368,0.223,1,1,0,1,3,Immediate Action
+BR0010,Hyderabad East Branch,Hyderabad,Metro,South,0.211,143.938,0.286,0.226,60378.1,519.88,1608,0,2.642,True,0.219,136.04,0.368,0.223,1,1,0,0,2,Monitor
+BR0011,Chennai West Branch,Chennai,Metro,South,0.217,137.094,0.347,0.288,60887.7,542.26,1691,0,3.667,True,0.219,136.04,0.368,0.223,1,1,0,0,2,Monitor
+BR0012,Kolkata Central Branch,Kolkata,Metro,East,0.217,140.821,0.364,0.19,59851.6,534.71,1338,1,1.892,True,0.219,136.04,0.368,0.223,1,1,0,1,3,Immediate Action
+BR0013,Mumbai Main Branch,Mumbai,Metro,West,0.222,134.65,0.341,0.202,62645.9,577.11,1676,0,6.25,True,0.219,136.04,0.368,0.223,0,0,0,1,1,Healthy
+BR0014,Delhi North Branch,Delhi,Metro,North,0.204,142.945,0.35,0.233,60540.1,552.51,1994,0,3.858,True,0.219,136.04,0.368,0.223,1,1,0,0,2,Monitor
+BR0015,Bengaluru South Branch,Bengaluru,Metro,South,0.212,144.088,0.328,0.17,59444.0,520.79,1304,1,3.008,True,0.219,136.04,0.368,0.223,1,1,0,1,3,Immediate Action
+BR0016,Hyderabad East Branch,Hyderabad,Metro,South,0.226,136.128,0.391,0.247,60125.0,555.81,1517,0,4.258,True,0.219,136.04,0.368,0.223,0,1,1,0,2,Monitor
+BR0017,Chennai West Branch,Chennai,Metro,South,0.217,137.07,0.34,0.209,58968.6,545.82,1261,2,5.767,True,0.219,136.04,0.368,0.223,1,1,0,1,3,Immediate Action
+BR0018,Kolkata Central Branch,Kolkata,Metro,East,0.213,139.476,0.364,0.242,61440.1,526.21,1758,0,3.683,True,0.219,136.04,0.368,0.223,1,1,0,0,2,Monitor
+BR0019,Mumbai Main Branch,Mumbai,Metro,West,0.218,141.448,0.431,0.223,59162.3,565.45,1599,0,1.908,True,0.219,136.04,0.368,0.223,1,1,1,0,3,Immediate Action
+BR0020,Delhi North Branch,Delhi,Metro,North,0.221,138.927,0.367,0.234,59875.9,520.78,1938,0,3.458,True,0.219,136.04,0.368,0.223,0,1,0,0,1,Healthy
+BR0021,Bengaluru South Branch,Bengaluru,Metro,South,0.214,141.111,0.335,0.224,59698.3,557.46,1635,1,4.6,True,0.219,136.04,0.368,0.223,1,1,0,0,2,Monitor
+BR0022,Hyderabad East Branch,Hyderabad,Metro,South,0.225,141.149,0.312,0.212,61408.9,526.81,1701,1,2.408,True,0.219,136.04,0.368,0.223,0,1,0,1,2,Monitor
+BR0023,Chennai West Branch,Chennai,Metro,South,0.213,143.542,0.349,0.227,57295.1,550.82,1665,0,1.808,True,0.219,136.04,0.368,0.223,1,1,0,0,2,Monitor
+BR0024,Kolkata Central Branch,Kolkata,Metro,East,0.223,133.868,0.378,0.191,59901.4,557.35,1515,0,4.625,True,0.219,136.04,0.368,0.223,0,0,1,1,2,Monitor
+BR0025,Mumbai Main Branch,Mumbai,Metro,West,0.236,129.618,0.425,0.211,61031.6,532.04,1737,1,3.367,True,0.219,136.04,0.368,0.223,0,0,1,1,2,Monitor
+BR0026,Delhi North Branch,Delhi,Metro,North,0.217,140.792,0.465,0.216,58620.9,529.21,1682,0,3.358,True,0.219,136.04,0.368,0.223,1,1,1,1,4,Immediate Action
+BR0027,Bengaluru South Branch,Bengaluru,Metro,South,0.216,145.084,0.377,0.228,59917.2,508.83,1751,0,3.3,True,0.219,136.04,0.368,0.223,1,1,1,0,3,Immediate Action
+BR0028,Hyderabad East Branch,Hyderabad,Metro,South,0.23,132.733,0.446,0.268,59574.4,517.78,1348,1,4.008,True,0.219,136.04,0.368,0.223,0,0,1,0,1,Healthy
+BR0029,Chennai West Branch,Chennai,Metro,South,0.23,131.876,0.404,0.251,62393.9,535.99,1699,0,4.333,True,0.219,136.04,0.368,0.223,0,0,1,0,1,Healthy
+BR0030,Kolkata Central Branch,Kolkata,Metro,East,0.23,137.143,0.276,0.215,59836.8,515.73,1353,0,3.0,True,0.219,136.04,0.368,0.223,0,1,0,1,2,Monitor
+BR0031,Pune Main Branch,Pune,Urban,West,0.305,157.859,,0.185,25947.2,272.53,943,1,,False,0.306,154.825,0.372,0.209,1,1,0,1,3,Immediate Action
+BR0032,Ahmedabad North Branch,Ahmedabad,Urban,West,0.327,150.932,0.328,0.171,26068.5,259.31,882,2,3.667,True,0.306,154.825,0.372,0.209,0,0,0,1,1,Healthy
+BR0033,Jaipur South Branch,Jaipur,Urban,North,0.313,155.814,0.341,0.172,26029.4,254.83,828,1,3.642,True,0.306,154.825,0.372,0.209,0,1,0,1,2,Monitor
+BR0034,Lucknow East Branch,Lucknow,Urban,North,0.307,158.937,0.439,0.218,26507.0,276.69,927,0,2.467,True,0.306,154.825,0.372,0.209,0,1,1,0,2,Monitor
+BR0035,Surat West Branch,Surat,Urban,West,0.295,159.799,0.328,0.195,26214.6,277.81,921,1,2.45,True,0.306,154.825,0.372,0.209,1,1,0,1,3,Immediate Action
+BR0036,Kanpur Central Branch,Kanpur,Urban,North,0.306,159.403,0.409,0.237,26360.1,269.45,1293,1,3.208,True,0.306,154.825,0.372,0.209,0,1,1,0,2,Monitor
+BR0037,Nagpur Main Branch,Nagpur,Urban,East,0.309,154.551,,0.211,25794.7,251.71,1012,1,,False,0.306,154.825,0.372,0.209,0,0,0,0,0,Healthy
+BR0038,Indore North Branch,Indore,Urban,East,0.301,158.435,,0.212,25555.4,260.98,960,0,,False,0.306,154.825,0.372,0.209,1,1,0,0,2,Monitor
+BR0039,Pune South Branch,Pune,Urban,West,0.304,155.643,0.388,0.187,26266.8,242.15,727,0,3.95,True,0.306,154.825,0.372,0.209,1,1,1,1,4,Immediate Action
+BR0040,Ahmedabad East Branch,Ahmedabad,Urban,West,0.319,155.362,,0.174,26782.8,263.9,743,1,,False,0.306,154.825,0.372,0.209,0,1,0,1,2,Monitor
+BR0041,Jaipur West Branch,Jaipur,Urban,North,0.316,156.502,0.393,0.271,25577.9,259.51,1039,1,1.417,True,0.306,154.825,0.372,0.209,0,1,1,0,2,Monitor
+BR0042,Lucknow Central Branch,Lucknow,Urban,North,0.298,167.088,0.44,0.205,26106.3,273.76,747,1,5.408,True,0.306,154.825,0.372,0.209,1,1,1,1,4,Immediate Action
+BR0043,Surat Main Branch,Surat,Urban,West,0.3,165.931,0.332,0.219,26495.1,268.04,1032,0,4.642,True,0.306,154.825,0.372,0.209,1,1,0,0,2,Monitor
+BR0044,Kanpur North Branch,Kanpur,Urban,North,0.302,154.694,0.382,0.211,26634.0,251.88,956,0,3.7,True,0.306,154.825,0.372,0.209,1,0,1,0,2,Monitor
+BR0045,Nagpur South Branch,Nagpur,Urban,East,0.308,158.985,0.465,0.209,27445.5,276.51,835,0,3.633,True,0.306,154.825,0.372,0.209,0,1,1,0,2,Monitor
+BR0046,Indore East Branch,Indore,Urban,East,0.317,152.728,0.403,0.245,25760.2,265.82,1359,0,2.908,True,0.306,154.825,0.372,0.209,0,0,1,0,1,Healthy
+BR0047,Pune West Branch,Pune,Urban,West,0.288,163.508,0.394,0.181,25657.5,264.19,890,0,3.208,True,0.306,154.825,0.372,0.209,1,1,1,1,4,Immediate Action
+BR0048,Ahmedabad Central Branch,Ahmedabad,Urban,West,0.324,152.812,,0.253,26581.1,253.23,1157,0,,False,0.306,154.825,0.372,0.209,0,0,0,0,0,Healthy
+BR0049,Jaipur Main Branch,Jaipur,Urban,North,0.322,155.208,0.408,0.224,25678.0,260.58,987,0,3.975,True,0.306,154.825,0.372,0.209,0,1,1,0,2,Monitor
+BR0050,Lucknow North Branch,Lucknow,Urban,North,0.311,157.951,0.399,0.187,26029.7,271.69,693,1,3.833,True,0.306,154.825,0.372,0.209,0,1,1,1,3,Immediate Action
+BR0051,Surat South Branch,Surat,Urban,West,0.299,162.229,0.352,0.203,26708.2,269.7,1212,0,2.375,True,0.306,154.825,0.372,0.209,1,1,0,1,3,Immediate Action
+BR0052,Kanpur East Branch,Kanpur,Urban,North,0.306,159.758,,0.19,27131.6,262.8,783,0,,False,0.306,154.825,0.372,0.209,0,1,0,1,2,Monitor
+BR0053,Nagpur West Branch,Nagpur,Urban,East,0.31,156.471,0.36,0.197,26237.1,250.92,826,0,4.292,True,0.306,154.825,0.372,0.209,0,1,0,1,2,Monitor
+BR0054,Indore Central Branch,Indore,Urban,East,0.318,156.428,0.377,0.18,26281.0,271.68,855,2,3.492,True,0.306,154.825,0.372,0.209,0,1,1,1,3,Immediate Action
+BR0055,Pune Main Branch,Pune,Urban,West,0.291,161.602,0.389,0.182,27178.0,258.6,822,1,2.467,True,0.306,154.825,0.372,0.209,1,1,1,1,4,Immediate Action
+BR0056,Ahmedabad North Branch,Ahmedabad,Urban,West,0.3,157.047,0.403,0.226,26228.7,244.6,811,0,5.392,True,0.306,154.825,0.372,0.209,1,1,1,0,3,Immediate Action
+BR0057,Jaipur South Branch,Jaipur,Urban,North,0.299,156.432,0.383,0.262,25861.3,268.42,1327,0,3.967,True,0.306,154.825,0.372,0.209,1,1,1,0,3,Immediate Action
+BR0058,Lucknow East Branch,Lucknow,Urban,North,0.305,159.984,0.422,0.22,26044.7,276.86,1019,0,3.75,True,0.306,154.825,0.372,0.209,1,1,1,0,3,Immediate Action
+BR0059,Surat West Branch,Surat,Urban,West,0.32,153.828,0.347,0.221,25948.7,254.41,951,0,2.858,True,0.306,154.825,0.372,0.209,0,0,0,0,0,Healthy
+BR0060,Kanpur Central Branch,Kanpur,Urban,North,0.316,149.779,0.311,0.182,25555.7,263.58,870,0,4.083,True,0.306,154.825,0.372,0.209,0,0,0,1,1,Healthy
+BR0061,Nagpur Main Branch,Nagpur,Urban,East,0.31,159.867,0.31,0.235,26462.0,256.84,1008,0,4.475,True,0.306,154.825,0.372,0.209,0,1,0,0,1,Healthy
+BR0062,Indore North Branch,Indore,Urban,East,0.314,153.678,0.323,0.194,26047.3,254.7,810,0,2.283,True,0.306,154.825,0.372,0.209,0,0,0,1,1,Healthy
+BR0063,Pune South Branch,Pune,Urban,West,0.306,161.566,0.398,0.24,26973.0,277.82,1063,0,4.667,True,0.306,154.825,0.372,0.209,0,1,1,0,2,Monitor
+BR0064,Ahmedabad East Branch,Ahmedabad,Urban,West,0.313,158.078,0.373,0.296,25581.7,259.7,976,0,4.275,True,0.306,154.825,0.372,0.209,0,1,1,0,2,Monitor
+BR0065,Jaipur West Branch,Jaipur,Urban,North,0.297,158.749,0.379,0.217,26043.0,275.22,788,0,2.717,True,0.306,154.825,0.372,0.209,1,1,1,0,3,Immediate Action
+BR0066,Coimbatore Main Branch,Coimbatore,Semi-Urban,South,0.296,198.999,0.343,0.241,11116.6,101.02,587,0,2.8,True,0.292,200.425,0.369,0.214,0,0,0,0,0,Healthy
+BR0067,Vadodara North Branch,Vadodara,Semi-Urban,West,0.289,206.502,0.372,0.192,10782.5,112.35,475,0,3.592,True,0.292,200.425,0.369,0.214,1,1,1,1,4,Immediate Action
+BR0068,Bhopal South Branch,Bhopal,Semi-Urban,East,0.304,198.858,0.289,0.256,10807.5,111.69,633,0,2.733,True,0.292,200.425,0.369,0.214,0,0,0,0,0,Healthy
+BR0069,Patna East Branch,Patna,Semi-Urban,East,0.301,199.186,0.357,0.225,10867.2,105.41,515,1,4.208,True,0.292,200.425,0.369,0.214,0,0,0,0,0,Healthy
+BR0070,Ludhiana West Branch,Ludhiana,Semi-Urban,North,0.286,210.6,,0.218,11034.6,103.76,479,0,,False,0.292,200.425,0.369,0.214,1,1,0,0,2,Monitor
+BR0071,Agra Central Branch,Agra,Semi-Urban,North,0.286,206.945,0.325,0.195,9753.7,101.35,409,0,2.155,True,0.292,200.425,0.369,0.214,1,1,0,1,3,Immediate Action
+BR0072,Nashik Main Branch,Nashik,Semi-Urban,West,0.294,206.028,0.344,0.236,10511.5,103.5,575,0,1.733,True,0.292,200.425,0.369,0.214,0,1,0,0,1,Healthy
+BR0073,Ranchi North Branch,Ranchi,Semi-Urban,East,0.284,207.672,0.32,0.183,10829.2,101.46,465,0,2.825,True,0.292,200.425,0.369,0.214,1,1,0,1,3,Immediate Action
+BR0074,Coimbatore South Branch,Coimbatore,Semi-Urban,South,0.277,203.462,,0.182,10771.4,109.32,358,2,,False,0.292,200.425,0.369,0.214,1,1,0,1,3,Immediate Action
+BR0075,Vadodara East Branch,Vadodara,Semi-Urban,West,0.301,195.668,,0.214,10998.5,110.32,566,1,,False,0.292,200.425,0.369,0.214,0,0,0,0,0,Healthy
+BR0076,Bhopal West Branch,Bhopal,Semi-Urban,East,0.307,189.879,0.441,0.183,10592.9,110.15,427,0,4.475,True,0.292,200.425,0.369,0.214,0,0,1,1,2,Monitor
+BR0077,Patna Central Branch,Patna,Semi-Urban,East,0.292,203.606,0.346,0.202,10542.1,111.7,546,0,2.183,True,0.292,200.425,0.369,0.214,0,1,0,1,2,Monitor
+BR0078,Ludhiana Main Branch,Ludhiana,Semi-Urban,North,0.304,196.46,0.359,0.198,10558.3,106.26,512,0,3.983,True,0.292,200.425,0.369,0.214,0,0,0,1,1,Healthy
+BR0079,Agra North Branch,Agra,Semi-Urban,North,0.294,202.614,,0.204,11060.4,104.87,511,1,,False,0.292,200.425,0.369,0.214,0,1,0,1,2,Monitor
+BR0080,Nashik South Branch,Nashik,Semi-Urban,West,0.293,200.647,,0.202,11159.3,110.04,435,1,,False,0.292,200.425,0.369,0.214,0,1,0,1,2,Monitor
+BR0081,Ranchi East Branch,Ranchi,Semi-Urban,East,0.285,204.929,,0.194,10679.2,101.4,433,0,,False,0.292,200.425,0.369,0.214,1,1,0,1,3,Immediate Action
+BR0082,Coimbatore West Branch,Coimbatore,Semi-Urban,South,0.284,209.81,0.386,0.245,10408.6,105.33,664,0,2.742,True,0.292,200.425,0.369,0.214,1,1,1,0,3,Immediate Action
+BR0083,Vadodara Central Branch,Vadodara,Semi-Urban,West,0.3,201.381,0.366,0.211,11223.2,103.53,634,0,2.6,True,0.292,200.425,0.369,0.214,0,1,0,1,2,Monitor
+BR0084,Bhopal Main Branch,Bhopal,Semi-Urban,East,0.289,207.831,,0.178,10643.1,112.92,466,2,,False,0.292,200.425,0.369,0.214,1,1,0,1,3,Immediate Action
+BR0085,Patna North Branch,Patna,Semi-Urban,East,0.292,202.026,0.42,0.218,10256.9,101.81,415,1,3.8,True,0.292,200.425,0.369,0.214,0,1,1,0,2,Monitor
+BR0086,Ludhiana South Branch,Ludhiana,Semi-Urban,North,0.291,205.807,0.37,0.228,10798.2,107.49,519,0,2.775,True,0.292,200.425,0.369,0.214,1,1,1,0,3,Immediate Action
+BR0087,Agra East Branch,Agra,Semi-Urban,North,0.297,200.917,,0.192,10917.6,104.17,375,2,,False,0.292,200.425,0.369,0.214,0,1,0,1,2,Monitor
+BR0088,Nashik West Branch,Nashik,Semi-Urban,West,0.284,205.669,0.334,0.206,10751.8,104.97,467,0,2.925,True,0.292,200.425,0.369,0.214,1,1,0,1,3,Immediate Action
+BR0089,Ranchi Central Branch,Ranchi,Semi-Urban,East,0.292,202.327,0.362,0.199,10491.7,110.16,531,0,3.25,True,0.292,200.425,0.369,0.214,0,1,0,1,2,Monitor
+BR0090,Coimbatore Main Branch,Coimbatore,Semi-Urban,South,0.294,205.153,,0.208,10538.5,117.42,466,0,,False,0.292,200.425,0.369,0.214,0,1,0,1,2,Monitor
+BR0091,Vadodara North Branch,Vadodara,Semi-Urban,West,0.307,192.245,,0.222,10937.6,109.36,610,0,,False,0.292,200.425,0.369,0.214,0,0,0,0,0,Healthy
+BR0092,Bhopal South Branch,Bhopal,Semi-Urban,East,0.283,201.682,0.402,0.205,10779.3,102.67,531,0,3.1,True,0.292,200.425,0.369,0.214,1,1,1,1,4,Immediate Action
+BR0093,Patna East Branch,Patna,Semi-Urban,East,0.29,201.839,0.399,0.257,10624.2,107.15,468,1,3.908,True,0.292,200.425,0.369,0.214,1,1,1,0,3,Immediate Action
+BR0094,Ludhiana West Branch,Ludhiana,Semi-Urban,North,0.284,205.111,0.329,0.187,10944.9,113.23,449,1,6.108,True,0.292,200.425,0.369,0.214,1,1,0,1,3,Immediate Action
+BR0095,Agra Central Branch,Agra,Semi-Urban,North,0.296,196.912,0.316,0.174,10895.9,108.47,481,3,1.608,True,0.292,200.425,0.369,0.214,0,0,0,1,1,Healthy
+BR0096,Warangal Main Branch,Warangal,Rural,South,0.351,316.52,,0.169,4169.5,51.55,257,2,,False,0.343,315.83,0.414,0.213,0,1,0,1,2,Monitor
+BR0097,Guntur North Branch,Guntur,Rural,South,0.353,310.883,,0.245,4095.9,44.13,309,0,,False,0.343,315.83,0.414,0.213,0,0,0,0,0,Healthy
+BR0098,Mysuru South Branch,Mysuru,Rural,South,0.359,309.492,0.424,0.258,4316.2,45.13,262,0,3.617,True,0.343,315.83,0.414,0.213,0,0,1,0,1,Healthy
+BR0099,Jodhpur East Branch,Jodhpur,Rural,North,0.346,319.611,,0.152,4265.0,45.43,198,2,,False,0.343,315.83,0.414,0.213,0,1,0,1,2,Monitor
+BR0100,Guwahati West Branch,Guwahati,Rural,East,0.351,313.711,,0.244,4134.0,46.92,346,0,,False,0.343,315.83,0.414,0.213,0,0,0,0,0,Healthy
+BR0101,Raipur Central Branch,Raipur,Rural,East,0.371,304.872,0.386,0.168,4089.3,47.09,218,0,3.175,True,0.343,315.83,0.414,0.213,0,0,0,1,1,Healthy
+BR0102,Dehradun Main Branch,Dehradun,Rural,North,0.353,324.676,,0.256,4120.9,48.29,337,0,,False,0.343,315.83,0.414,0.213,0,1,0,0,1,Healthy
+BR0103,Tirupati North Branch,Tirupati,Rural,South,0.327,329.299,,0.192,4212.6,46.34,233,0,,False,0.343,315.83,0.414,0.213,1,1,0,1,3,Immediate Action
+BR0104,Warangal South Branch,Warangal,Rural,South,0.343,319.141,,0.271,4132.7,45.82,268,0,,False,0.343,315.83,0.414,0.213,0,1,0,0,1,Healthy
+BR0105,Guntur East Branch,Guntur,Rural,South,0.344,316.896,,0.213,4089.8,46.52,232,0,,False,0.343,315.83,0.414,0.213,0,1,0,0,1,Healthy
+BR0106,Mysuru West Branch,Mysuru,Rural,South,0.352,309.152,,0.193,4124.4,45.31,273,1,,False,0.343,315.83,0.414,0.213,0,0,0,1,1,Healthy
+BR0107,Jodhpur Central Branch,Jodhpur,Rural,North,0.333,321.87,0.427,0.239,4124.7,49.18,223,2,3.517,True,0.343,315.83,0.414,0.213,1,1,1,0,3,Immediate Action
+BR0108,Guwahati Main Branch,Guwahati,Rural,East,0.355,303.305,0.424,0.191,4185.2,48.93,323,0,2.85,True,0.343,315.83,0.414,0.213,0,0,1,1,2,Monitor
+BR0109,Raipur North Branch,Raipur,Rural,East,0.331,324.308,,0.127,4230.2,47.08,138,3,,False,0.343,315.83,0.414,0.213,1,1,0,1,3,Immediate Action
+BR0110,Dehradun South Branch,Dehradun,Rural,North,0.332,315.818,,0.262,4347.6,45.66,349,1,,False,0.343,315.83,0.414,0.213,1,0,0,0,1,Healthy
+BR0111,Tirupati East Branch,Tirupati,Rural,South,0.339,316.342,,0.252,4108.7,49.18,352,0,,False,0.343,315.83,0.414,0.213,1,1,0,0,2,Monitor
+BR0112,Warangal West Branch,Warangal,Rural,South,0.358,313.053,,0.213,4021.8,48.67,288,1,,False,0.343,315.83,0.414,0.213,0,0,0,0,0,Healthy
+BR0113,Guntur Central Branch,Guntur,Rural,South,0.357,316.918,,0.192,4194.5,45.84,218,0,,False,0.343,315.83,0.414,0.213,0,1,0,1,2,Monitor
+BR0114,Mysuru Main Branch,Mysuru,Rural,South,0.334,327.514,,0.222,4276.0,45.4,287,0,,False,0.343,315.83,0.414,0.213,1,1,0,0,2,Monitor
+BR0115,Jodhpur North Branch,Jodhpur,Rural,North,0.333,329.037,0.363,0.211,4398.3,47.02,311,1,2.667,True,0.343,315.83,0.414,0.213,1,1,0,1,3,Immediate Action
+BR0116,Guwahati South Branch,Guwahati,Rural,East,0.356,316.787,,0.289,4146.3,47.89,256,1,,False,0.343,315.83,0.414,0.213,0,1,0,0,1,Healthy
+BR0117,Raipur East Branch,Raipur,Rural,East,0.341,331.347,,0.23,4122.3,48.34,289,0,,False,0.343,315.83,0.414,0.213,1,1,0,0,2,Monitor
+BR0118,Dehradun West Branch,Dehradun,Rural,North,0.365,309.322,,0.203,3813.1,44.115,271,1,,False,0.343,315.83,0.414,0.213,0,0,0,1,1,Healthy
+BR0119,Tirupati Central Branch,Tirupati,Rural,South,0.364,300.138,,0.205,4205.1,49.18,294,1,,False,0.343,315.83,0.414,0.213,0,0,0,1,1,Healthy
+BR0120,Warangal Main Branch,Warangal,Rural,South,0.355,315.107,,0.235,4187.3,45.89,310,0,,False,0.343,315.83,0.414,0.213,0,0,0,0,0,Healthy

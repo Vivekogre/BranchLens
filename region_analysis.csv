@@ -1,0 +1,5 @@
+region,total_branches,critical_branches,avg_teller_util,avg_cost_per_txn,avg_rm_activity,avg_cash_idle,total_deposits,total_products_sold,critical_pct
+East,30,0,0.297,201.872,0.21,0.367,651434.4,22160,0.0
+North,32,0,0.297,196.55,0.212,0.379,753104.8,26041,0.0
+South,32,0,0.281,218.956,0.222,0.37,1002050.3,29411,0.0
+West,26,0,0.288,165.737,0.209,0.369,747748.8,24689,0.0

@@ -1,0 +1,5 @@
+tier,total_branches,critical_branches,avg_teller_util,avg_cost_per_txn,avg_rm_activity,total_deposits,total_products_sold,critical_pct
+Metro,30,0,0.22,138.599,0.218,1810176.7,47405,0.0
+Rural,25,0,0.348,316.605,0.217,104111.4,6842,0.0
+Semi-Urban,30,0,0.293,202.359,0.208,322276.4,15002,0.0
+Urban,35,0,0.308,157.647,0.212,917773.8,33052,0.0
