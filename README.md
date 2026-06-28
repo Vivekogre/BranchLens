@@ -91,22 +91,28 @@ Four-page interactive dashboard built for three audiences — COO (executive sum
 ## Dashboard Preview
 
 ### Page 1 — Executive Summary
-<img width="290" height="223" alt="image" src="https://github.com/user-attachments/assets/5459c055-beff-4543-b643-7211ca2b7aba" />
+<img width="100%" alt="Executive Summary" src="https://github.com/user-attachments/assets/5459c055-beff-4543-b643-7211ca2b7aba" />
 
 - 40 branches flagged for Immediate Action
 - North region has 12 critical branches — highest count across all regions
 - Rural branches cost ₹317 per transaction vs Metro at ₹139
 
 ### Page 2 — Cost & Teller Efficiency
+<img width="100%" alt="Cost and Teller Efficiency" src="https://github.com/user-attachments/assets/2c6a116d-652e-4927-b573-d9a7e0f44f1a" />
+
 - Clear seasonal U-curve — costs highest in Jan (₹215) and Nov/Dec (₹217), lowest in July (₹176)
 - Scatter plot shows Immediate Action branches cluster at low utilisation + high cost (top-left danger zone)
 
 ### Page 3 — RM Activity
+<img width="100%" alt="RM Activity" src="https://github.com/user-attachments/assets/fd4b0a3f-3821-4088-9f2d-119161407e1b" />
+
 - South region leads with 22.17% RM activity rate, West is lowest at 20.93%
 - 46 branches had at least 1 month of zero RM activity — customers walked in, nobody engaged them
 - Positive correlation visible between RM activity rate and products sold
 
 ### Page 4 — ATM Cash Efficiency
+<img width="100%" alt="ATM Cash Efficiency" src="https://github.com/user-attachments/assets/f87e34d1-0a69-4211-91fe-abbb23e300cb" />
+
 - 84 of 120 branches have ATMs
 - Rural ATMs have highest cash idle ratio at 40.48% — cash loaded far exceeds demand
 - Mumbai Main Branch has highest downtime at 6.25 hours/month despite being Metro
