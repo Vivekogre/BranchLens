@@ -1,6 +1,6 @@
 # BranchLens — Banking Branch Performance Analytics
 
-**A end-to-end Business Analytics portfolio project simulating a real-world banking operations problem.**
+**An end-to-end Business Analytics portfolio project simulating a real-world banking operations problem.**
 
 ---
 
@@ -22,19 +22,20 @@ Most branch scorecards only track revenue metrics. This project builds an operat
 
 ## Key Findings
 
-- **32 of 120 branches** require immediate intervention — failing on 3 or 4 operational KPIs simultaneously
-- **Average teller utilisation is only 29.2%** — tellers are idle more than 70% of their working day
-- **₹195 average cost per branch transaction** — with a 3.6x gap between the best (₹108) and worst (₹394) performing branches
-- **37% of ATM cash sits unused** — on a Metro branch loading ₹200L/month, that is ₹74L locked in a machine every month
-- **53 branches had at least one zero-CRM month** — RMs logged no customer interactions despite hundreds of walk-ins
-- **23 branches are deposit traps** — high deposit volumes masking critical operational failure
-- **Performance is seasonal, not improving** — costs peak in Q1 and Q4, dip mid-year, indicating a structural staffing problem
+- **40 of 120 branches require immediate intervention** — failing on 3 or 4 operational KPIs simultaneously
+- **Average teller utilisation is only 29.1%** — tellers are idle more than 70% of their working day
+- **₹197 average cost per branch transaction** — with a 2.3x gap between Metro (₹139) and Rural (₹317)
+- **37.2% of ATM cash sits unused on average** — on a Metro branch loading ₹200L/month, that is ₹74L locked in a machine every month
+- **46 branches had at least one zero-CRM month** — RMs logged no customer interactions despite hundreds of walk-ins
+- **Performance is seasonal, not improving** — costs peak at ₹217 in Nov/Dec, drop to ₹176 in July, indicating a structural staffing problem not a gradual improvement trend
+- **West region has the highest critical rate at 42.3%** — 11 of 26 branches require immediate action
+- **Semi-Urban tier has the highest cash idle ratio** — more idle cash than even Rural branches despite higher footfall
 
 ---
 
 ## Data Architecture
 
-Synthetic data was generated for four systems across 120 branches over 12 months (FY2024):
+Synthetic data generated for four systems across 120 branches over 12 months (FY2024):
 
 | System | Rows | What it contains |
 |--------|------|-----------------|
@@ -84,6 +85,29 @@ Four-page interactive dashboard built for three audiences — COO (executive sum
 | Cost & Teller | Operations Head | Teller utilisation vs cost scatter, lowest utilisation branches, monthly cost trend |
 | RM Activity | Sales Head | RM activity by region, activity vs products sold scatter, zero-CRM branch table |
 | ATM Cash Efficiency | Cash Management | Cash idle ratio by tier, loaded vs dispensed by tier, highest downtime branches |
+
+---
+
+## Dashboard Preview
+
+### Page 1 — Executive Summary
+- 40 branches flagged for Immediate Action
+- North region has 12 critical branches — highest count across all regions
+- Rural branches cost ₹317 per transaction vs Metro at ₹139
+
+### Page 2 — Cost & Teller Efficiency
+- Clear seasonal U-curve — costs highest in Jan (₹215) and Nov/Dec (₹217), lowest in July (₹176)
+- Scatter plot shows Immediate Action branches cluster at low utilisation + high cost (top-left danger zone)
+
+### Page 3 — RM Activity
+- South region leads with 22.17% RM activity rate, West is lowest at 20.93%
+- 46 branches had at least 1 month of zero RM activity — customers walked in, nobody engaged them
+- Positive correlation visible between RM activity rate and products sold
+
+### Page 4 — ATM Cash Efficiency
+- 84 of 120 branches have ATMs
+- Rural ATMs have highest cash idle ratio at 40.48% — cash loaded far exceeds demand
+- Mumbai Main Branch has highest downtime at 6.25 hours/month despite being Metro
 
 ---
 
