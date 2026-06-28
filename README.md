@@ -91,6 +91,8 @@ Four-page interactive dashboard built for three audiences — COO (executive sum
 ## Dashboard Preview
 
 ### Page 1 — Executive Summary
+<img width="290" height="223" alt="image" src="https://github.com/user-attachments/assets/5459c055-beff-4543-b643-7211ca2b7aba" />
+
 - 40 branches flagged for Immediate Action
 - North region has 12 critical branches — highest count across all regions
 - Rural branches cost ₹317 per transaction vs Metro at ₹139
