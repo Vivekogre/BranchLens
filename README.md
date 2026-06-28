@@ -158,7 +158,7 @@ BranchLens/
 
 ## About
 
-**Vivek Agarwal** — Aspiring Business Analyst
+**Vivek Agarwal** — Business Analyst
 
 This project was built to demonstrate end-to-end analytics capability — from understanding a business problem, designing a data model, cleaning messy data, engineering meaningful metrics, and communicating findings through a dashboard.
 
